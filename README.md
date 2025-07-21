@@ -8,7 +8,7 @@ It can run nmap scans, ping ips and open burpsuite or wireshark.
 It also gives an option to use proxychains4
 
 **How-To-Install**
-1. Open terminal and type ```git clone https://github.com/crop808/cybersecrecon```
+1. Open terminal and type ```git clone https://github.com/whyrot/cybersecrecon```
 2. type ```cd cybersecrecon```
 3. once in the directory type ```python3 recon.py``` to open it
 
